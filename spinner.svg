@@ -6,7 +6,7 @@
   preserveAspectRatio="xMidYMid"
   class="uil-ellipsis"
 >
-  <circle cx="16" cy="50" r="8" fill="#E5EEFD" transform="rotate(0 50 50)">
+  <circle cx="16" cy="50" r="8" fill="#7eb7f7" transform="rotate(0 50 50)">
     <animate
       id="anir11"
       attributeName="r"
@@ -116,7 +116,7 @@
       fill="freeze"
     />
   </circle>
-  <circle cx="50" cy="50" r="8" fill="#E5EEFD" transform="rotate(0 50 50)">
+  <circle cx="50" cy="50" r="8" fill="#7eb7f7" transform="rotate(0 50 50)">
     <animate
       id="anir21"
       attributeName="r"
@@ -235,7 +235,7 @@
       fill="freeze"
     />
   </circle>
-  <circle cx="84" cy="50" r="8" fill="#E5EEFD" transform="rotate(0 50 50)">
+  <circle cx="84" cy="50" r="8" fill="#7eb7f7" transform="rotate(0 50 50)">
     <animate
       id="anir31"
       attributeName="r"
@@ -354,7 +354,7 @@
       fill="freeze"
     />
   </circle>
-  <circle cx="84" cy="50" r="8" fill="#E5EEFD" transform="rotate(0 50 50)">
+  <circle cx="84" cy="50" r="8" fill="#7eb7f7" transform="rotate(0 50 50)">
     <animate
       id="anir41"
       attributeName="r"
